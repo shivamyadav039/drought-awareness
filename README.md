@@ -60,7 +60,7 @@ drought-awareness-website/
 
 🚀 Getting Started
 🔧 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/drought-awareness-website.git
+
 
 📂 2. Navigate into the folder
 cd drought-awareness-website
